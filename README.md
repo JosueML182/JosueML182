@@ -46,6 +46,23 @@ Soy un desarrollador apasionado por la tecnología web, el hardware y la ciberse
 
 ---
 
+### 📬 Contacto
+
+<p align="center">
+  ¿Tienes un proyecto en mente o quieres conectar?
+  <br><br>
+  <a href="https://www.linkedin.com/in/TU_USUARIO_LINKEDIN">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:contacto@aurarweb.site">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <br><br>
+  🌐 <b>Web:</b> <a href="https://aurarweb.site">aurarweb.site</a>
+</p>
+
+---
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JosueML182/JosueML182/blob/output/github-contribution-grid-snake-dark.svg">
