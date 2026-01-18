@@ -51,7 +51,7 @@ Soy un desarrollador apasionado por la tecnología web, el hardware y la ciberse
 <p align="center">
   ¿Tienes un proyecto en mente o quieres conectar?
   <br><br>
-  <a href="https://www.linkedin.com/in/TU_USUARIO_LINKEDIN">
+  <a href="https://www.linkedin.com/in/josué-enrique-ml-b3a57a335">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:contacto@aurarweb.site">
