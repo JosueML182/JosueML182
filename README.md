@@ -13,31 +13,27 @@ Soy un desarrollador apasionado por la tecnología web, el hardware y la ciberse
 
 <p align="center">
 
-**Languages & Backend**
-<br>
-<img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
-<img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
-
-<br>
-
 **Front-End Development**
 <br>
-<img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,nextjs,tailwind,materialui" />
+</a>
 
 <br>
 
-**Cloud & Tools**
+**Languages & Backend**
 <br>
-<img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
-<img src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=php,c,cpp,py,nodejs,mysql" />
+</a>
+
+<br>
+
+**Cloud, Tools & Hosting**
+<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=firebase,git,linux,github,vscode,figma,postman" />
+</a>
 
 </p>
 
