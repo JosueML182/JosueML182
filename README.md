@@ -50,5 +50,9 @@ Soy un desarrollador apasionado por la tecnología web, el hardware y la ciberse
 ---
 
 <div align="center">
-  <img src="https://github.com/TU_USUARIO/TU_USUARIO/blob/output/github-contribution-grid-snake.svg" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JosueML182/JosueML182/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/JosueML182/JosueML182/blob/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/JosueML182/JosueML182/blob/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
