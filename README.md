@@ -13,10 +13,10 @@ Soy un desarrollador apasionado por la tecnología web, el hardware y la ciberse
 
 <p align="center">
 
-**Front-End Development**
+**Front-End & Mobile Development**
 <br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,html,css,js,nextjs,tailwind,materialui" />
+  <img src="https://skillicons.dev/icons?i=react,flutter,html,css,js,vite,tailwind,nextjs,materialui" />
 </a>
 
 <br>
@@ -24,7 +24,7 @@ Soy un desarrollador apasionado por la tecnología web, el hardware y la ciberse
 **Languages & Backend**
 <br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=php,c,cpp,py,nodejs,mysql" />
+  <img src="https://skillicons.dev/icons?i=php,java,c,cpp,py,nodejs,mysql,powershell" />
 </a>
 
 <br>
@@ -32,7 +32,7 @@ Soy un desarrollador apasionado por la tecnología web, el hardware y la ciberse
 **Cloud, Tools & Hosting**
 <br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=firebase,git,linux,github,vscode,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=firebase,gcp,git,linux,github,vscode,figma,postman" />
 </a>
 
 </p>
