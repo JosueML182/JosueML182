@@ -3,7 +3,7 @@
 </div>
 
 # Hola, soy Josué Enrique Martínez 👋
-### 🚀 CEO & Lead Developer @ [Aurar Studios](https://aurarstudios.site)
+### 🚀 CEO & CTO @ [Aurar Studios](https://aurarstudios.site)
 
 Soy un desarrollador apasionado por la tecnología web, el hardware y la ciberseguridad. Actualmente lidero el desarrollo y la estrategia en **Aurar Web**, creando soluciones digitales de alto impacto.
 
